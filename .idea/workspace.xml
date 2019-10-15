@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0dce64a4-fcad-49e7-814c-26f630a2ba77" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/meveo/postman/PostmanRunnerScript.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2049#2050#0" expanded="true" />
+                <element signature="e#2112#2113#0" expanded="true" />
+                <element signature="e#17492#17493#0" expanded="true" />
+                <element signature="e#17536#17537#0" expanded="true" />
+                <element signature="e#17572#17573#0" expanded="true" />
+                <element signature="e#17607#17608#0" expanded="true" />
+                <element signature="e#17644#17645#0" expanded="true" />
+                <element signature="e#17680#17681#0" expanded="true" />
+                <element signature="e#17713#17714#0" expanded="true" />
+                <element signature="e#17745#17746#0" expanded="true" />
+                <element signature="e#17779#17780#0" expanded="true" />
+                <element signature="e#17812#17813#0" expanded="true" />
+                <element signature="e#17862#17863#0" expanded="true" />
+                <element signature="e#17902#17903#0" expanded="true" />
+                <element signature="e#17949#17950#0" expanded="true" />
+                <element signature="e#17986#17987#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4199">
+              <caret line="247" column="29" selection-start-line="247" selection-start-column="29" selection-end-line="247" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>30</find>
+      <find>coo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/meveo/postman/PostmanRunnerScript.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1664" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="meveoman" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meveoman" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Meveoman helloTodo">
+    <configuration name="Meveoman helloTodo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.meveo.postman.PostmanRunnerScript" />
+      <module name="meveoman" />
+      <option name="PROGRAM_PARAMETERS" value="E:\Documents\developpement\TodoList.postman_collection.json E:\Documents\developpement\ovh-integration.postman_environment.json trustAllCertificates" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Meveoman vtiger" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.meveo.postman.PostmanRunnerScript" />
+      <module name="meveoman" />
+      <option name="PROGRAM_PARAMETERS" value="E:\Documents\developpement\Vtiger_monitoring.postman_collection.json E:\Documents\developpement\Vtiger_monitoring.postman_collection.properties" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Meveoman helloTodo" />
+      <item itemvalue="Application.Meveoman vtiger" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dce64a4-fcad-49e7-814c-26f630a2ba77" name="Default Changelist" comment="" />
+      <created>1570003220357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570003220357</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.57746476" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24052005" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Vtiger_monitoring.postman_collection.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.scripting/javax/script/ScriptException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt://C:/Program Files/Java/jdk-10.0.1!/java.base/javax/net/ssl/TrustManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/spec/javax/ws/rs/jboss-jaxrs-api_2.1_spec/1.0.3.Final/jboss-jaxrs-api_2.1_spec-1.0.3.Final.jar!/javax/ws/rs/core/Response.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="50" column="38" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/spec/javax/ws/rs/jboss-jaxrs-api_2.1_spec/1.0.3.Final/jboss-jaxrs-api_2.1_spec-1.0.3.Final.jar!/javax/ws/rs/core/NewCookie.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/spec/javax/ws/rs/jboss-jaxrs-api_2.1_spec/1.0.3.Final/jboss-jaxrs-api_2.1_spec-1.0.3.Final.jar!/javax/ws/rs/core/Cookie.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/meveo/postman/PostmanRunnerScript.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2049#2050#0" expanded="true" />
+            <element signature="e#2112#2113#0" expanded="true" />
+            <element signature="e#17492#17493#0" expanded="true" />
+            <element signature="e#17536#17537#0" expanded="true" />
+            <element signature="e#17572#17573#0" expanded="true" />
+            <element signature="e#17607#17608#0" expanded="true" />
+            <element signature="e#17644#17645#0" expanded="true" />
+            <element signature="e#17680#17681#0" expanded="true" />
+            <element signature="e#17713#17714#0" expanded="true" />
+            <element signature="e#17745#17746#0" expanded="true" />
+            <element signature="e#17779#17780#0" expanded="true" />
+            <element signature="e#17812#17813#0" expanded="true" />
+            <element signature="e#17862#17863#0" expanded="true" />
+            <element signature="e#17902#17903#0" expanded="true" />
+            <element signature="e#17949#17950#0" expanded="true" />
+            <element signature="e#17986#17987#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4199">
+          <caret line="247" column="29" selection-start-line="247" selection-start-column="29" selection-end-line="247" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
