@@ -412,7 +412,7 @@ public class PostmanRunnerScript {
 
     public static void main(String[] args) {
         if(args.length<2){
-            log.warn("usage : java -jar meveoman <collectionFilename> <environmentFilename> [trustAllCertificates]");
+            log.warn("usage : java -jar meveoman.jar <collectionFilename> <environmentFilename> [trustAllCertificates]");
             System.out.println("  <collectionFilename>: filename (including path) of the postman 2.1 collection json file.");
             System.out.println("  <environmentFilename>: filename (including path) the postmane environment json file to load and initialize the context.");
             System.out.println("  trustAllCertificates: if this param is set then ssl certificates are not checked.");
