@@ -2,6 +2,23 @@
 
 Meveoman is a Meveo script that can also be used as a standalone java app to execute a Postman 2.1 collection.
 
+## Limits
+
+- Only Bearer and Basic authentication is implemented  
+- Javascript events are executed with [Graal js engine](https://github.com/graalvm/graaljs) but no [js library](https://learning.getpostman.com/docs/postman/scripts/postman_sandbox_api_reference/) are included.  
+- the pm variable used in events (i.e tests) is partly emulated, you can use :  
+pm.info.eventName  
+pm.info.iteration  
+pm.info.iterationCount  
+pm.info.requestName  
+pm.info.requestId
+pm.environment
+pm.test  
+pm.response.text  
+pm.response.json  
+pm.response.to.have.status  
+pm.response.to.be.oneOf
+
 ## Usage
 
 ### As a standalone java app
