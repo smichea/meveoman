@@ -1,6 +1,6 @@
 # Meveoman
 
-Meveoman is a Meveo script that be also used as a standalone java app to execute a Postman 2.1 collection.
+Meveoman is a Meveo script that can also be used as a standalone java app to execute a Postman 2.1 collection.
 
 ## Usage
 
